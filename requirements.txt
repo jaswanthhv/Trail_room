@@ -5,4 +5,5 @@ Pillow==10.4.0
 numpy==2.0.2
 mediapipe==0.10.14
 opencv-python==4.10.0.84
+gunicorn==21.2.0
 
